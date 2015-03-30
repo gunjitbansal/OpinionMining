@@ -1,0 +1,607 @@
+1_notmatch_(1_<its>2_<models>3_<fast-forward,rewind>4_<more>
+2_4.5 gb
+3_notmatch_(1_<mirror>2_<silver>3_<finish>4_<more>
+4_dvd players
+5_panasonics
+6_all of these discs
+7_2600
+8_1201
+9_long run
+10_this
+11_apex player
+12_notmatch_(1_< >2_< >3_<looking apex dvd player>4_<finest>
+13_it
+14_apex
+15_dvds
+16_apex
+17_notmatch_(1_<movie discs>2_<extras discs>3_<played>4_<all>
+18_notmatch_(1_<27 `` screen>2_<17 `` monitor>3_<jpeg pictures are viewable>4_<as clear as>
+19_jpeg
+20_2500
+21_ad600
+22_$ 29
+23_all codes
+24_this dvd player
+26_this
+27_apex
+28_it
+29_current price
+30_this
+31_post
+32_notmatch_(1_< >2_< >3_<>4_<>
+33_g3
+34_powershot g3
+35_brands
+36_this
+37_it
+38_notmatch_(1_<camera>2_<nikon 4500>3_<noise at iso 100>4_<more>
+39_it
+40_g3
+41_this
+42_notmatch_(1_< >2_< >3_<4. mp>4_<cheapest>
+43_switch to raw format
+44_g2
+45_it
+46_g3
+47_this
+49_this
+50_this
+51_it
+52_notmatch_(1_< >2_< >3_<4mp>4_<best>
+53_canon g3
+54_g2
+55_canon
+56_notmatch_(1_< >2_< >3_<buy>4_<last>
+57_notmatch_(1_< >2_< >3_<4 megapixel/4x optical zoom camera>4_<best>
+58_g3
+59_its
+60_notmatch_(1_< >2_< >3_<price>4_<choice>
+61_this
+62_this
+63_notmatch_(1_< >2_< >3_<>4_<>
+64_this
+65_it
+66_notmatch_(1_< >2_< >3_<>4_<>
+67_this camera
+68_notmatch_(1_<this camera>2_<others>3_<noise in dark places>4_<much less>
+69_it
+70_nikon slr
+71_this
+72_this
+73_it
+74_this camera 
+75_g3 lens adapter
+76_notmatch_(1_<5 megapixel camera>2_<powershot s330>3_<zoom,adjustability>4_<longer, more>
+77_notmatch_(1_<canon g3>2_<nikon coolpix 5700>3_<comfortable to hold and use>4_<more>
+78_g3
+79_canon speedlite 420
+80_the camera for two months
+81_camera
+82_notmatch_(1_< >2_< >3_<non-slr digital camera>4_<best>
+83_g3
+84_this
+85_notmatch_(1_< >2_< >3_<>4_<>
+86_notmatch_(1_<canon g3>2_<nikon coolpix 5000>3_<performance>4_<beats>
+87_canon
+88_canon g3
+89_notmatch_(1_<this camera>2_<nikon 5000>3_<battery life>4_<twice>
+90_it
+92_this player
+93_xtra
+94_zen
+95_redhat software
+96_i-pod
+97_notmatch_(1_<it>2_<ipod>3_<light>4_<as light as>
+98_zen nx
+99_scroll wheel
+100_it
+101_it
+102_ipod
+103_ipod
+104_i-pod
+105_creative labs zen xtra
+106_it
+108_notmatch_(1_<it>2_<ipod>3_<costs>4_<less>
+109_zennx
+110_ipod
+111_this thing
+112_notmatch_(1_< >2_< >3_<electronics>4_<best>
+113_notmatch_(1_<it>2_<pda style case>3_<case>4_<similar>
+114_my previous player
+115_notmatch_(1_<this little device>2_<ipod>3_<price>4_<more>
+116_newer ones
+117_ipod
+118_software - music match jukebox
+119_it navigation
+121_ipod
+123_notmatch_(1_<mine>2_<ipod 30gb>3_<$ 160>4_<less>
+124_this
+125_sound quality
+127_creative mp3 jukeboxes
+128_notmatch_(1_< >2_< >3_<class sound>4_<best>
+129_software
+130_i-pod
+131_scroll button
+132_the playes
+133_the software
+134_this
+135_notmatch_(1_<320>2_<128kps>3_<fit>4_<less>
+136_notmatch_(1_< >2_< >3_<battery life>4_<greater>
+137_40gb ipod
+138_notmatch_(1_<this thing>2_<ipod>3_<spend>4_<more>
+139_notmatch_(1_<zx>2_<ipod>3_<technology>4_<bigger>
+140_zx
+141_this
+142_it
+143_this
+144_windows explorer style navigation system
+145_portable player
+146_notmatch_(1_< >2_< >3_<way to do this>4_<easier>
+147_notmad explorer
+148_sliding old fashioned volume knob
+149_them
+150_up
+151_notmatch_(1_<this mp3 player>2_<ipod>3_<memory>4_<more>
+152_ipod
+153_ipod
+154_nomad
+155_headphones
+156_it
+157_zen xtra
+158_cd wallet
+159_cd player
+160_this
+161_notmatch_(1_< >2_< >3_<sound>4_<larger>
+162_amazon
+163_notmatch_(1_< >2_< >3_<process>4_<quicker>
+164_zen
+165_software
+166_notmatch_(1_<zen xtra>2_<ipod>3_<controls>4_<as easy as>
+167_flash card memory
+168_it
+169_notmatch_(1_<256 player>2_<30gb>3_<flash memory>4_<smaller / lighter>
+172_this one
+173_this
+174_notmatch_(1_< >2_< >3_<>4_<>
+175_its
+176_its
+177_ipod
+178_scroll button
+180_notmatch_(1_<160 kbps wma file>2_<source cd>3_<sounds>4_<as good as>
+181_this
+182_creative mp3 players
+183_notmatch_(1_< >2_< >3_<ipod alternative>4_<best>
+184_40gb nomad zen xtra
+185_the new organizer software
+186_usb recharging
+187_devices
+188_this player
+189_reviewers
+190_subsequent behavior
+191_it
+192_all jukebox players
+193_notmatch_(1_<hard-drive based player>2_<other devices>3_<minimal pause between songs>4_<less>
+194_it
+195_replacement
+196_notmatch_(1_< >2_< >3_<jukebox mp3 player>4_<best>
+197_this player
+198_software
+199_it
+200_notmatch_(1_<future>2_<now>3_<cost>4_<less>
+201_ipod
+202_it
+203_i-pod
+204_all of them
+205_ipods
+206_nomad zen xtra
+207_mini ipod
+208_notmatch_(1_<this>2_<ipod>3_<features>4_<comparable>
+209_imo
+210_notmatch_(1_<it>2_<new-generation ipods>3_<inch>4_<bigger>
+211_ipod
+212_it 
+213_nomad
+214_cd players
+216_notmatch_(1_< >2_< >3_<4 mp compact digital>4_<best>
+217_two camera
+218_notmatch_(1_<nikon>2_<other 4 mp camera>3_<picture qualities>4_<as good as>
+219_canon
+220_i
+221_nikon 4300
+222_nikon 4300
+223_notmatch_(1_< >2_< >3_<lense>4_<better>
+224_us brick and mortar retailer
+225_this camera
+226_this
+227_it
+228_slr models
+229_this camera
+230_notmatch_(1_< >2_< >3_<>4_<>
+231_35mm
+232_this little gem
+233_this camera
+234_all features
+235_it
+236_nokia
+238_nokia 6610
+239_notmatch_(1_< >2_< >3_<phone>4_<best>
+240_nokia
+241_vibrate
+242_this
+243_notmatch_(1_<this radio>2_<normal radio>3_<reception>4_<as good as>
+244_this phone
+245_notmatch_(1_< >2_< >3_<mobile phone>4_<best of the best>
+246_this
+247_it
+248_average phone
+250_phone
+251_flip phones imo
+252_6610
+253_sony ericsson phone
+254_notmatch_(1_<nokia,sony phones>2_<samsung>3_<last 3 days>4_<all>
+255_notmatch_(1_<motorolla t722i>2_<the motorolla phone>3_<battery life>4_<longer>
+256_t610
+257_phone
+258_samsung phones
+259_they
+260_this
+261_this phone
+262_radio
+263_flip phones
+264_nokia
+265_hands-free speakerphone
+266_notmatch_(1_<the phone>2_<other nokias>3_<durable>4_<as other>
+267_this
+268_phone
+269_phone looks
+270_phone 
+271_speakerphone
+272_it
+273_they
+274_phones
+275_tmoviles
+276_this phone
+277_all of my subs
+279_Opera
+280_Firefox
+281_Opera _3choice
+282_Safari 2
+283_other operating systems
+284_they all
+285_AMD
+286_notmatch_(1_<Athlon>2_<Coppermine>3_<L2 cache>4_<more>
+287_notmatch_(1_<56KB of L2 cache>2_<processor>3_<speed>4_<same>
+288_Coppermine
+289_Pentium III
+291_it 
+292_K6-3
+293_K6-2
+294_K6-2
+295_Athlons
+296_K6-2
+298_AMD
+299_AMD Athlon 1.4Ghz
+300_AMD
+301_AMD
+302_AMD 1.4Ghz CPU with PC150-C2 memory
+303_AMD
+304_PC-150-C2
+305_Corsair
+306_notmatch_(1_<P4 systems>2_<AMD Athlons>3_<Measured voltage>4_<lower>
+307_notmatch_(1_< >2_< >3_<>4_<>
+308_Intel celeron
+309_AMD Athlon
+310_Intel Pentium III
+311_notmatch_(1_<AMD processors>2_<Intel processors>3_<reliable>4_<as reliable as>
+312_AMD processor
+313_notmatch_(1_<Intel>2_<AMD processors>3_<in my home>4_<both>
+314_notmatch_(1_<Intel>2_<AMD x86>3_<complaints>4_<both>
+316_Pentium III
+317_TM5600
+318_notmatch_(1_<C3>2_<AMD,Intel>3_<power>4_<less>
+319_notmatch_(1_<AMD Duron>2_<C3>3_<costing>4_<more>
+320_Duron
+321_notmatch_(1_<AMD>2_<Intel>3_<performance>4_<topped>
+322_Duron
+323_it
+324_notmatch_(1_<Duron,T-Bird>2_<Celeron>3_<cache>4_<four times as large>
+326_notmatch_(1_<It>2_<all PCs>3_<as fast as>4_<twice as fast>
+327_notmatch_(1_<Duron>2_<Celeron>3_<cost>4_<same>
+328_AMDK6-2 and -3
+329_AMD
+331_PC133
+332_Athlon/K7
+333_Athlon
+334_Athlon
+335_Intel
+336_notmatch_(1_<MII>2_<6x86MX>3_<cache>4_<more>
+337_K602
+338_Intel
+339_Intel pentium III Xeon
+340_Athlon
+341_Coppermine at 933 MHz with a 133 Mhz FSB
+342_200 MHz FSB
+343_Celeron
+344_K6-3
+345_fetching data from Cache
+346_Intel
+347_P II
+348_it
+349_AMD
+350_Intel
+351_notmatch_(1_<chip from Duron>2_<AMD Athlon>3_<uses the Socket A>4_<same>
+352_Duron
+353_Duron
+354_They
+356_Pentium
+357_Intel
+358_boards
+359_Amd
+360_Intel
+362_chips
+363_Pentium 1.13GHz chip
+364_Advanced Micro Devices
+366_notmatch_(1_<AMD>2_<Intel>3_<costing>4_<more>
+368_notmatch_(1_<Manchester core,it>2_<Toledo,siblings>3_<transistors,die size,thermal numbers>4_<fewer>
+370_AMD
+371_It
+372_Reebok
+373_chips on the AMD line
+374_They
+375_AMD chip
+376_Intel chips
+377_Athlon systems
+378_AMD
+379_it
+380_AMD chips
+381_AMD Duron
+382_DURON
+383_they
+384_Pentium series CPUs
+385_AMD
+386_DDR memory
+387_AMD
+388_DDR and AMD
+390_notmatch_(1_<it>2_<Athlon>3_<benchmarks>4_< 1.4 GHz beats>
+391_Duron 
+392_Its
+393_It
+394_notmatch_(1_<It>2_<Intel processor>3_<speed>4_<same speed as>
+395_Athlon  P4
+396_They
+397_AMD Athlon 4 processor
+399_2.0 GHz Pentium 4
+400_notmatch_(1_<It>2_<1900>3_<runs>4_<more>
+401_Pentium 4
+402_Intel
+403_dual 1.25GHz system
+405_P4 `` twenty-two-hundred ''
+407_Pentium 4 platform
+408_DDR-chipsets for Pentium 4
+409_Pentium 4/2200
+410_AMD Athlon XP 2000+
+411_Pentium 4/2200
+412_Intel Pentium 4/2200
+413_P4-chipset with DDR SDRAM support
+414_PS3
+415_Xbox 360
+416_Ryan Giggs
+417_Eidur Gudjohnsen
+418_Shearer
+419_lower divisions
+420_notmatch_(1_<Manchester United>2_<Arsenal>3_<loyalty amongst their players>4_<only>
+421_Yahoo
+422_Google
+423_Yahoo
+424_they all
+426_it
+427_United midfield led by inspirational captain Roy Keane in the season of 1998/99 
+428_John O'Shea
+429_Paul Scholes
+430_Wayne Ronney
+431_Park
+432_notmatch_(1_<they>2_<United>3_<talent in the midfield>4_<more>
+433_Makelele
+434_He
+435_notmatch_(1_< >2_< >3_<>4_<>
+436_south american football
+437_Man Utd
+438_chelsea
+439_notmatch_(1_< >2_< >3_<>4_<>
+440_chelsea
+441_MU
+442_Scholes
+443_all of them
+444_4-4-2
+445_Arsenal 
+446_chelsea
+447_Man Utd
+448_chelsea
+449_juventus
+451_arsenal
+452_chelsea
+453_Arsenal
+454_United
+455_Rooney
+456_They
+457_United
+458_Man Utd
+459_Their
+460_Madrid
+461_Chelsea
+462_Rafael Van Der Vaart
+463_Man Utd
+464_They
+465_notmatch_(1_<Arsenal>2_<Man United>3_<closer to Chelsea>4_<closer>
+466_Juninho
+467_Pepsi
+468_Pepsi
+469_Coke
+470_Coke
+471_Pepsi
+472_Cott
+473_PepsiCo
+474_Coca-Cola
+475_notmatch_(1_< >2_< >3_<>4_<>
+476_Coke
+477_Their commercials
+478_U.S.
+479_Coke
+480_coke
+481_Coke
+482_Coca-Cola
+483_Coke
+484_Pepsi
+485_Pepsi
+486_Pepsi
+487_Pepsi
+488_Pepsi
+490_notmatch_(1_<These factories>2_<factory Pepsi has in Bucharest>3_<size>4_<double the size>
+491_Coca-Cola
+492_Both companies
+493_Coca-Cola
+494_notmatch_(1_<Coke>2_<Pepsi,locally produced colas>3_<price>4_<twice>
+496_Pepsi
+497_Pepsi
+498_Coca-Cola
+499_Poland
+500_Coca-Cola
+501_notmatch_(1_< >2_< >3_<>4_<>
+503_notmatch_(1_< >2_< >3_<>4_<>
+504_Pepsi
+505_Coca-Cola
+506_Mexico
+507_Pepsi
+508_China
+509_Pepsi
+510_Saudi Arabia
+511_cola
+512_Ciet Coke with Splenda
+513_Pepsi
+514_it
+515_Pepsi
+516_Coke
+517_Minute-Made
+518_Coke
+519_it
+520_last Fuji camera
+521_this
+522_digital SLR
+523_notmatch_(1_<F10>2_<D70s>3_<performs>4_<up against>
+525_Battery life
+526_It
+527_H3
+528_This
+529_notmatch_(1_<it>2_<Hummer>3_<capable off road>4_<as>
+530_H2
+531_new H3
+532_notmatch_(1_<H3>2_<midsize sedan>3_<length>4_<same length as>
+534_Its
+535_SD500
+536_Z750
+537_notmatch_(1_<SD500>2_<Z750>3_<flash>4_<more>
+538_Z750
+539_All three laptops
+540_notmatch_(1_< >2_< >3_<>4_<>
+541_notmatch_(1_<HP>2_<online retailer>3_<charhe>4_<more>
+543_All three units
+544_all three
+545_notmatch_(1_<L2000,V2000Z >2_<V2335>3_<Fan noise>4_<louder, more>
+547_AMD based notebooks
+548_Cony
+549_Intel
+550_Acer TravelMate 8100
+551_8100
+552_notmatch_(1_<Inspiron 6000>2_<some 17-inch wide screens>3_<resolution photographs,spreadsheet columns,tiled documents>4_<more>
+553_notmatch_(1_<2-GHz Pentium M 760-equipped review unit>2_<systems equipped with the same processor>3_< WorldBench 5 score>4_<above average>
+554_M7500's battery
+555_dv4000's 3.3-hour battery life
+557_notmatch_(1_<iP4200>2_<Canon models>3_<silver plastic case>4_<less>
+558_iP4200
+559_iP4200
+560_notmatch_(1_< >2_< >3_<Text printed>4_<fastest>
+561_Canon Pixma iP1600
+562_notmatch_(1_<Portable printers>2_<desk-bound counterparts>3_<cost>4_<more>
+563_Deskjet 450wbt
+564_notmatch_(1_< >2_< >3_<letters>4_<on par with>
+565_other HP printers
+566_the printer
+567_HP Deskjet 5440
+568_Both printers
+569_Both models
+570_5440
+571_It
+572_notmatch_(1_<HP Deskjet 5940>2_<HP Deskjet 5440>3_<metal cover,costs>4_<more>
+573_extra $20 3)speed
+574_notmatch_(1_<5940>2_<Both models>3_<cartidges>4_<larger>
+575_notmatch_(1_<this model>2_<Deskjet 5440>3_<swap out the pigment ink cartridge>4_<Like>
+576_this
+577_That
+578_This
+579_notmatch_(1_<it>2_<other TVs>3_<sharp>4_<as sharp as>
+582_iPod
+583_iPod
+584_notmatch_(1_< >2_< >3_<hiss>4_<more>
+585_MobiBlu DAH-1500i
+586_MSI Mega Player 521
+587_DAH-1500i
+588_iPod shuffle
+589_it
+591_the camera
+592_notmatch_(1_< >2_< >3_<CIPA battery life score>4_<higher>
+593_This
+594_notmatch_(1_<H3>2_<H2>3_<0-60 mph times>4_<identical>
+595_Chevrolet TrailBlazer
+596_notmatch_(1_<GM-engineered H2>2_<Chevy Tahoe>3_<urbane ride quality>4_<share>
+597_tough-guy exterior let on
+598_It
+599_other midsize truck-based SUVs
+600_old menu 
+601_F10
+602_notmatch_(1_< >2_< >3_<>4_<>
+604_H3
+605_notmatch_(1_<H3>2_<H2>3_<acceleration>4_<matches>
+606_notmatch_(1_<Casio>2_<Olympus>3_<manual area>4_<imitating>
+607_Digital Flash feature on HP cameras
+608_Sony DSC-M1
+609_notmatch_(1_< >2_< >3_<Battery life>4_<>
+610_SD500
+611_Turion
+612_All three laptops
+613_L200
+614_APU is maxed
+615_all three machines
+616_Intel setup
+617_1lb 6-cell battery
+618_software package
+619_8100
+620_notmatch_(1_<8100>2_<8000>3_<battery life>4_<lower>
+621_8100
+622_Dell Inspiron 6000's wide screen
+623_M7500
+624_screen
+625_iP4200
+627_pigment-based black ink
+628_Both speeds
+629_notmatch_(1_<larger-capacity cartridges>2_<5440's regular cartridges>3_<shape,size>4_<same>
+630_notmatch_(1_<5440>2_<sibling>3_<13 ml photo cartridg>4_<same>
+631_printer
+632_5440
+633_They
+634_notmatch_(1_<KDS-R60XBR1>2_<other Sony RPTVs>3_<Aesthetically>4_<resemblance>
+635_notmatch_(1_<1,920-by-1,080 panels>2_<720p display>3_<jump>4_<as>
+636_It
+637_every RPTV
+638_chip
+639_56DR650
+640_TV
+642_previous generation
+643_notmatch_(1_<30GB model>2_<20GB model>3_<price>4_<same>
+644_new 30GB iPod
+645_bigger screen
+646_notmatch_(1_< >2_< >3_<Photo format>4_<one of the>
+648_T10
+649_DAH-1500i
+651_final-generation iPod mini
+652_iPod nano
+653_mini
