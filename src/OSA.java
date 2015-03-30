@@ -13,6 +13,8 @@ public class OSA {
 
 	void countPros(String comparative_wrd,String feature,BufferedReader br)throws Exception
 	{
+		
+		System.out.println("---------Testing----------");
 		comparative_wrd=comparative_wrd.trim();
 		feature=feature.trim();
 		
